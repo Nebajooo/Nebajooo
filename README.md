@@ -1,11 +1,6 @@
-# The largest heading
-## The second largest heading
-###### The smallest heading
+### #RRGGBB Hello World I'm Nebiyu👋 
 
-<pre>
-<font color="blue"> Hello World I'm Nebiyu👋 </font>
-
- I'm a Developer and Student
+## I'm a Developer and Student
 
 - 🔭 I’m currently working on School Project
 -🌱 I’m currently learning Mern Stack
@@ -15,8 +10,7 @@
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I'm very Funny
 
-</pre>
-<img ser="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fmidnight-coding-late-night-session-lofi-animation-28139&psig=AOvVaw3rhDqXwnsxn5p-0qeStrYV&ust=1672910117594000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPC1oYTKrfwCFQAAAAAdAAAAABAI" alt="File not found" align="right"/>
+
 <!--
 **Nebajooo/Nebajooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
