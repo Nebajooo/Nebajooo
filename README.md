@@ -1,5 +1,5 @@
 <pre>
-<p color:blue>Hello World I'm Nebiyu👋
+<p color="blue">Hello World I'm Nebiyu👋
  I'm a Developer and Student</p>
 
 - 🔭 I’m currently working on School Project
