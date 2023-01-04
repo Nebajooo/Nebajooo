@@ -1,7 +1,8 @@
 <h1 align="center">Hello World 👋, I'm Nebiyu</h1>
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 
-<img align="right" alt="File not found" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsiddharth-bhatnagar&psig=AOvVaw13kPPN0q1VercoAOANlarC&ust=1672914043867000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCJCN2szYrfwCFQAAAAAdAAAAABCJAQ"/> 
+![image-asset](https://user-images.githubusercontent.com/106951303/210535819-70c82e2e-7223-4dd5-9289-60f9b0898073.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebajooo&label=Profile%20views&color=0e75b6&style=flat" alt="nebajooo" /> </p>
 
 - 🔭 I’m currently working on **School project**
