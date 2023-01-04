@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **....Anything**
 
-- 📫 How to reach me[Email](nebajoo2015@gmail.com)
+- 📫 How to reach me [Email](nebajoo2015@gmail.com)
 
 - ⚡ Fun fact **I'm very funny**
 
