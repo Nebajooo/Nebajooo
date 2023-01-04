@@ -1,8 +1,8 @@
 <pre>
-<h3 style='color:blue'>Hello World I'm Nebiyu👋
+<p style='color:blue'>Hello World I'm Nebiyu👋
 
- I'm a Developer and Student</h3>
-<hr/>
+ I'm a Developer and Student</p>
+- 🔭 I’m currently working on School Project
 -🌱 I’m currently learning Mern Stack
 -👯 I’m looking to collaborate on other developers
 -📫 How to reach me: [Email](nebajoo2015@gmail.com)
