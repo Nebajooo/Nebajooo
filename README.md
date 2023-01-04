@@ -1,7 +1,7 @@
 <pre>
 <p style='color:blue'>Hello World I'm Nebiyu👋
-- ✍ You can find my projects here [portfolio]
  I'm a Developer and Student</p>
+ - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on School Project
 -🌱 I’m currently learning Mern Stack
 -👯 I’m looking to collaborate on other developers
