@@ -1,6 +1,7 @@
 <pre>
-<p color="blue">Hello World I'm Nebiyu👋
- I'm a Developer and Student</p>
+<font color="blue"> Hello World I'm Nebiyu👋 </font>
+
+ I'm a Developer and Student
 
 - 🔭 I’m currently working on School Project
 -🌱 I’m currently learning Mern Stack
