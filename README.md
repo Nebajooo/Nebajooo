@@ -1,7 +1,7 @@
 <pre>
-<h1 style="color:blue">Hello World I'm Nebiyu👋</h1>
+<h3 style='color:blue'>Hello World I'm Nebiyu👋
 
-## I'm a Developer and Student
+ I'm a Developer and Student</h3>
 <hr/>
 -🌱 I’m currently learning Mern Stack
 -👯 I’m looking to collaborate on other developers
