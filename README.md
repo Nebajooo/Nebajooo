@@ -3,7 +3,7 @@
 
 ![image-asset](https://user-images.githubusercontent.com/106951303/210535819-70c82e2e-7223-4dd5-9289-60f9b0898073.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nebajooo&label=Profile%20views&color=0e75b6&style=flat" alt="nebajooo" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=nebajooo&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cyberark.com%2Fresources%2Fblog%2Fsecure-developer-workstations-without-slowing-them-down&psig=AOvVaw0c88Jn0S1T2a0tbbFxskvp&ust=1702037985792000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiv_eOn_YIDFQAAAAAdAAAAABAD)" alt="nebajooo" /> </p>
 
 - 🔭 I’m currently working on **School project**
 
